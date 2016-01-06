@@ -1,4 +1,4 @@
-# generator-expandjs
+# generator-expandjs (WIP)
 
 A Yeoman generator to scaffold an application with ExpandJS
 
