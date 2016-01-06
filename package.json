@@ -1,0 +1,29 @@
+{
+    "name": "generator-expandjs",
+    "license": "BSD-3-Clause",
+    "version": "0.0.1",
+    "description": "Scaffold an application with ExpandJS",
+    "author": "ExpandJS <dev@expandjs.com> (http://expandjs.com)",
+    "contributors": [
+        "Giuliano Rullo <g.rullo@expandjs.com>",
+        "Maurizio Stefàno <m.stefano@expandjs.com>",
+        "Robert Manolea <r.manolea@expandjs.com>"
+    ],
+    "main": "app/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ExpandJSLabs/generator-expandjs.git"
+    },
+    "files": [
+        "app"
+    ],
+    "keywords": [
+        "yeoman-generator",
+        "expandjs",
+        "web app",
+        "scaffold"
+    ],
+    "dependencies": {
+        "yeoman-generator": "^0.20.3"
+    }
+}

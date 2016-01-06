@@ -1,0 +1,3 @@
+[submodule "app/templates/app-starter-kit"]
+	path = app/templates/app-starter-kit
+	url = https://github.com/ExpandJSLabs/app-starter-kit.git
