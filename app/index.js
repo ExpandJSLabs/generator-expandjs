@@ -15,7 +15,7 @@
             this.fs.copy([
                     this.templatePath() + '/**',
                     this.templatePath() + '/**/.*',
-                    '!**/{gulpfile.js,bower.json,package.json,.git,.npmignore,.gitignore,wct.conf.js,docs,test}/**'],
+                    '!**/.git/**'],
                 this.destinationPath()
             );
         }
