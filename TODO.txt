@@ -1,0 +1,2 @@
+1. Add samples in yo generator "expandjs:sample-youtube"
+2. Make samples run by calling "node/gulp sample-youtube"
